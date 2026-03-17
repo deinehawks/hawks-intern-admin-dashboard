@@ -1,6 +1,6 @@
 # Hawks Intern Admin Dashboard
 
-Welcome to the **Hawks Intern Admin Dashboard** project.
+Welcome to the **Hawks Admin Dashboard** project.
 
 This repository is prepared as your development space for building a **web-based admin dashboard** as part of your internship task. The goal of this project is to help you explore and apply front-end development concepts in a practical way using a modern web stack.
 
