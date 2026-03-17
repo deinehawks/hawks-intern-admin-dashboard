@@ -2,7 +2,7 @@
 
 Welcome to the **Hawks Intern Admin Dashboard** project.
 
-This repository is prepared as your development space for building a **web-based admin dashboard** as part of your internship task. The goal of this project is to let you explore and apply front-end development concepts in a practical way using a modern web stack.
+This repository is prepared as your development space for building a **web-based admin dashboard** as part of your internship task. The goal of this project is to help you explore and apply front-end development concepts in a practical way using a modern web stack.
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ You will design and develop a **standalone admin dashboard module** that may lat
 
 The dashboard is expected to include:
 - dashboard layout and navigation
-- wireframe/design planning
+- wireframe and design planning
 - CRUD interfaces
 - basic form validation
 - confirmation flows
@@ -43,15 +43,21 @@ Your internship task may include:
 
 ## Development Workflow
 
-Please follow this general workflow:
+Please follow this workflow while working on the project:
 
-1. Pull the latest changes from the working branch.
-2. Create a feature branch for your task.
+1. Pull the latest changes from the `develop` branch.
+2. Create a new feature branch for your task.
 3. Commit your work clearly and regularly.
-4. Open a pull request for review.
-5. Apply feedback if needed.
+4. Open a pull request to the `develop` branch for review.
+5. Apply feedback and revisions if needed.
 
-The purpose of this workflow is to support your development and make progress easier to review.
+### Branch Guide
+
+- `main` – stable and approved version of the project
+- `develop` – active development and review branch
+- `feature/...` – your working branches for individual tasks
+
+Please avoid committing directly to `main`.
 
 ## Documentation
 
