@@ -54,10 +54,10 @@ Please follow this workflow while working on the project:
 ### Branch Guide
 
 - `main` – stable and approved version of the project
-- `develop` – active development and review branch
+- `development` – active development and review branch
 - `feature/...` – your working branches for individual tasks
 
-Please avoid committing directly to `main`.
+Please avoid committing directly to `main` and `development`.
 
 ## Documentation
 
