@@ -27,17 +27,6 @@ Create a clean, functional, and well-documented admin dashboard that demonstrate
 - proper handling of data display and form interaction
 - maintainable code
 
-## Suggested Technology Stack
-
-This project is expected to use the following tools and technologies:
-
-- **Next.js**
-- **TypeScript**
-- **shadcn/ui**
-- **Supabase**
-- **Figma**
-- **GitHub**
-
 You are encouraged to organize the project in a way that makes sense to you, as long as your structure is clear, consistent, and well-documented.
 
 ## Scope of Work
