@@ -1,4 +1,4 @@
-# Hawks Intern Admin Dashboard
+# Hawks Admin Dashboard
 
 Welcome to the **Hawks Admin Dashboard** project.
 
