@@ -1,36 +1,96 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hawks Intern Admin Dashboard
 
-## Getting Started
+Welcome to the **Hawks Intern Admin Dashboard** project.
 
-First, run the development server:
+This repository is prepared as your development space for building a **web-based admin dashboard** as part of your internship task. The goal of this project is to let you explore and apply front-end development concepts in a practical way using a modern web stack.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Project Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+You will design and develop a **standalone admin dashboard module** that may later be integrated into the main Hawks website.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The dashboard is expected to include:
+- dashboard layout and navigation
+- wireframe/design planning
+- CRUD interfaces
+- basic form validation
+- confirmation flows
+- documentation of your work
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+You will be working with a separate development environment prepared for internship use.
 
-## Learn More
+## Main Objective
 
-To learn more about Next.js, take a look at the following resources:
+Create a clean, functional, and well-documented admin dashboard that demonstrates:
+- good UI structure
+- reusable components
+- clear user flow
+- proper handling of data display and form interaction
+- maintainable code
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Suggested Technology Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+This project is expected to use the following tools and technologies:
 
-## Deploy on Vercel
+- **Next.js**
+- **TypeScript**
+- **shadcn/ui**
+- **Supabase**
+- **Figma**
+- **GitHub**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+You are encouraged to organize the project in a way that makes sense to you, as long as your structure is clear, consistent, and well-documented.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Scope of Work
+
+Your internship task may include:
+
+- planning the dashboard structure
+- creating wireframes in Figma
+- building pages and reusable UI components
+- implementing CRUD flows for assigned modules
+- applying basic validation and confirmation prompts
+- connecting the interface to the provided backend/testing environment
+- documenting setup, decisions, and usage
+
+## Development Workflow
+
+Please follow this general workflow:
+
+1. Pull the latest changes from the working branch.
+2. Create a feature branch for your task.
+3. Commit your work clearly and regularly.
+4. Open a pull request for review.
+5. Apply feedback if needed.
+
+The purpose of this workflow is to support your development and make progress easier to review.
+
+## Documentation
+
+Please document your work as you build. This may include:
+
+- setup steps
+- folder/project structure
+- pages and components created
+- design decisions
+- notes on validation and CRUD behavior
+- known limitations or future improvements
+
+## A Note for You
+
+Welcome to the project.
+
+Please do not feel pressured to make everything perfect immediately. This task is meant to help you learn how to plan, build, revise, and document a real front-end project in a structured way.
+
+It is normal to encounter unfamiliar tools, errors, and design decisions along the way. That is part of the process. You are encouraged to ask questions, explain your thought process, and improve the project step by step.
+
+What we value most is clarity, effort, consistency, and willingness to learn.
+
+Take this as a space to practice, grow, and build with confidence.
+
+## Repository Setup
+
+More detailed setup instructions, environment variables, and development notes will be provided as needed.
+
+---
+
+Welcome to the project, and happy building.
