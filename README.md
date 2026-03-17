@@ -45,10 +45,10 @@ Your internship task may include:
 
 Please follow this workflow while working on the project:
 
-1. Pull the latest changes from the `develop` branch.
+1. Pull the latest changes from the `development` branch.
 2. Create a new feature branch for your task.
 3. Commit your work clearly and regularly.
-4. Open a pull request to the `develop` branch for review.
+4. Open a pull request to the `development` branch for review.
 5. Apply feedback and revisions if needed.
 
 ### Branch Guide
